@@ -33,4 +33,4 @@ Izdihaar is a modern and user-friendly eCommerce platform built with React, prov
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/izdihaar-ecommerce.git
+   git clone https://github.com/itsdccal/izdihaar-ecommerce.git
